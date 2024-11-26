@@ -18,9 +18,15 @@ Welcome to the Simple Website Tutorial! This guide will walk you through the ste
 - [Things to Look Out For](#things-to-look-out-for)
 - [Conclusion](#conclusion)
 
-## Introduction
+# Loading Animation on Hover
 
-In this tutorial, you'll learn how to create a simple website with an HTML structure, styled with CSS, and interactivity added using JavaScript. By the end of this guide, you will have a basic understanding of how these three technologies work together to create a functional webpage.
+In this tutorial, you'll learn how to create a loading animation when your cursor is hovering over the object.
+
+When we hover above the object, each object should rotate at a degree of 360 and should slowly form back into a singular object.
+
+Let's get started!
+
+**Credits for the animation: **
 
 ## Project Structure
 
