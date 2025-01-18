@@ -37,14 +37,11 @@ body{
 
 .crc1:hover {
     animation: spin 8s infinite linear forwards;
+    cursor: pointer;
 }
 
 .crc1:hover .crc{
     transform: rotate(15deg);
-}
-
-.crc1:hover {
-    cursor: pointer;
 }
 
 @keyframes spin {
