@@ -275,6 +275,7 @@ Open your `index.html` file in a web browser to see your simple website in actio
 - Use proper HTML structure and semantics.
 - Keep your CSS organized and use meaningful class names.
 - Test your website in different browsers to ensure compatibility.
+- The positioning of the object may differ depending on the laptop/desktop size.
 
 ## Stretch Goals
 If you finish early, feel free to make changes with the color and the shape of the object
